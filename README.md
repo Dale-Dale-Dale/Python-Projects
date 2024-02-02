@@ -1,2 +1,2 @@
-# Python-Projects
-Python Projects I have completed on my own time while in School 
+# School Projects
+Python and SAS Projects I have completed on my own time while in School 
